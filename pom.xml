@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.72.245:9000/</sonar.host.url>
+		<sonar.host.url>http://13.127.67.169:9000/</sonar.host.url>
 		<sonar.login>squ_2e841c1c8e3d5185808d6cfbc8ea984079939f76</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Narendra Releases Nexus Repository</name>
-	      <url>http://43.205.130.1:9980/narendrababu/repository/fb-release/</url>
+	      <url>http://15.207.14.99:8081/narendra/repository/fb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Narendra Snapshot Nexus Repository </name>
-	      <url>http://43.205.130.1:9980/narendrababu/repository/fb-snapshot/</url>
+	      <url>http://15.207.14.99:8081/narendra/repository/fb-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
