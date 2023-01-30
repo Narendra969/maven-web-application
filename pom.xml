@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Narendra Releases Nexus Repository</name>
-	      <url>http://3.109.185.191:9980/narendrababu/repository/fb-release/</url>
+	      <url>http://43.205.130.1:9980/narendrababu/repository/fb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Narendra Snapshot Nexus Repository </name>
-	      <url>http://3.109.185.191:9980/narendrababu/repository/fb-snapshot/</url>
+	      <url>http://43.205.130.1:9980/narendrababu/repository/fb-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
